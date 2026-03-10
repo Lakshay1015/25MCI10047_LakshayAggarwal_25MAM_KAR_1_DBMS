@@ -40,7 +40,7 @@ and p1.customer_id<p2.customer_id;
 
 ```
 
-<img width="538" height="210" alt="image" src="Output Q1.png" />
+<img width="538" height="210" alt="image" src="output Q1.png" />
 
 ## Question 2
 ```sql
